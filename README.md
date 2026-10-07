@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Manudeep 👋
 
-<!--
-**KeitoAoi/KeitoAoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Software Engineer and Full Stack Developer who enjoys building practical applications with AI, machine learning, and modern web technologies.
 
-Here are some ideas to get you started:
+I work with Python, Java, JavaScript, React, Node.js, Spring Boot, PyTorch, TensorFlow, Docker, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I work on
+
+🤖 Generative AI & LLM applications
+
+🧠 Machine Learning & Deep Learning
+
+👁️ Computer Vision
+
+🌐 Full Stack Development
+
+☁️ Cloud & DevOps
+
+🔧 REST APIs & Microservices
