@@ -27,3 +27,5 @@ I'm always interested in learning, building, and collaborating on projects invol
 **AI • Machine Learning • Full Stack • Computer Vision • Cloud**
 
 Thanks for visiting my profile! 🚀
+
+*Please visit my portfolio : https://keitoaoi.github.io/# 
